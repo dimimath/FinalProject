@@ -71,5 +71,5 @@
 
 1. Κλωνοποίηση αποθετηρίου:
    ```bash
-   git clone https://github.com/dimimath/stroke-prediction.git
+   git clone https://github.com/dimimath/FinalProject.git
    cd stroke-prediction
